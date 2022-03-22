@@ -1,7 +1,13 @@
 {
   "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "article": "Favorite Talk",
+  "learning": "Learn & Do",
+  "redirect": "Redirect Example",
+  "question": "Redirect Question",
+  "custom-domain": "Custom Domain",
+  "community": "Community",
+  "response": "Improved Response",
+  "common-problems": "Common Problems",
+  "community-change": "Community Change",
+  "exercise-improvement": "Exercise Improvement"
 }

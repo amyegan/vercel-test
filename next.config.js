@@ -10,4 +10,15 @@ const withNextra = require('nextra')({
     },
   ],
 })
-module.exports = withNextra()
+module.exports = {
+  ...withNextra(),
+  async redirects() {
+    return [
+      {
+        source: '/vercel',
+        destination: 'https://vercel.com',
+        permanent: false,
+      },
+    ]
+  },
+}
